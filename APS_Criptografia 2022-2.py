@@ -1,6 +1,7 @@
 import random
 #Random é uma biblioteca matemática
 
+#inicialmente tentamos usar chaves predefinidas, dessa forma:
 #chaves = ["6Zi27$", "f!69P9", "2Wj!13", "0!13Il"]
 #chave = random.choice(chaves)
 
